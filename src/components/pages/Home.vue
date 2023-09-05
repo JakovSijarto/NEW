@@ -6,8 +6,8 @@
   <div >
     <h1 class="my-16">NewAge Small Projects</h1>
     <div class="parent">
-      <router-link to="/Coctail_Search" class="div1">
-        <img src="../assets/blue tropical cocktail instagram post.png" alt="" class="w-[100%]">
+      <router-link to="/coctail_search" class="div1">
+        <img src="../../assets/blue tropical cocktail instagram post.png" alt="" class="w-[100%]">
         <p class="m-16">Coctail search PROJECT</p>
       </router-link>
       <div class="div2"> </div>
